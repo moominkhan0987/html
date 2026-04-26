@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Tag Example</title>
+</head>
+<body>
+
+    <h2>Displaying an Image</h2>
+    <p>Below is an image with a width and height set:</p>
+
+    <!-- HTML Image Tag Example -->
+    <img src="https://w3schools.com" 
+         alt="HTML5 Icon" 
+         width="150" 
+         height="150"
+         title="This is the HTML5 logo">
+
+</body>
+</html>
