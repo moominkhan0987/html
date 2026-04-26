@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <h2>Daily Tasks</h2>
+  <ol>
+    <li>Wake up</li>
+    <li>Exercise</li>
+    <li>Have breakfast</li>
+    <li>Start working</li>
+  </ol>
+
+</body>
+</html>
