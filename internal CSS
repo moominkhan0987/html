@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* CSS rules go here */
+    body {
+      background-color: lightblue;
+    }
+    h1 {
+      color: navy;
+      margin-left: 20px;
+    }
+    p {
+      font-family: verdana;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Internal CSS Example</h1>
+  <p>This paragraph is styled by the rules in the head section.</p>
+</body>
+</html>
